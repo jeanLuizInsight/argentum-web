@@ -1,6 +1,6 @@
 # argentum-web
 
-## Projeto utilizado para realização do curso de Integração Contínua com Jenkins.
+## Projeto utilizado na realização do curso de Integração Contínua com Jenkins.
 
 Aulas:
 * Build e deploy automatizado;
